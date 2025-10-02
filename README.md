@@ -16,7 +16,6 @@ It includes KPIs, charts, and slicers to explore **team performance, toss impact
 - Multiple chart types: stacked bar, donut, tree map, and column charts
 - KPIs displayed in SmartArt for visual appeal
 - Clean layout with IPL branding and slicer filters for year-wise exploration
-- User-friendly design with protected sheet (but interactive controls enabled)
 
 ## ⚙️ Technologies Used
 
@@ -26,9 +25,6 @@ It includes KPIs, charts, and slicers to explore **team performance, toss impact
 - Pivot Tables & Pivot Charts
 - Excel Formulas & Slicers
 
-## 🔒 Sheet Protection
-
-To maintain structure, the sheet is protected, but all interactive elements remain usable.
 
 ## 📁 Files Included
 
@@ -49,5 +45,5 @@ To maintain structure, the sheet is protected, but all interactive elements rema
 
 **Aryan Deore**  
 🔗 [GitHub Profile](https://github.com/aryandeore2004)  
-📧 aryandeore2004@gmail.com
+📧 (aryandeore2004@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/aryandeore2004/)
